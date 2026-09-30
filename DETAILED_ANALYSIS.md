@@ -1,10 +1,6 @@
 # Financial Flows and Price Formation in the NYMEX WTI Market
 ## Quantitative Evidence from CFTC Positioning Data
 
-Below is a structured analytical description consistent with how a commodities strategist or quantitative analyst at a large sell-side institution would present the results. The interpretation is strictly based on the material contained in the uploaded documents and regression outputs.
-
----
-
 ## 1. Research Team and Core Objective
 
 The research project was conducted by a quantitative research group focusing on market microstructure in commodity futures markets, with the central objective of identifying alpha-relevant signals embedded in trader positioning data.
